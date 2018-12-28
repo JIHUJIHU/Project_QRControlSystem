@@ -1,0 +1,16 @@
+mysql 8.0
+
+파일 넣고
+npm install --save
+
+mysql 커맨드라인에서
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '자기비밀번호'
+flush privileges;
+
+ip주소 확인 하는법
+cmd창에서 ipconfig 입력
+
+무선 LAN 어댑터 Wi-Fi : IPv4 주소 (  )
+
+nodemcu 관련 설치법
+http://blog.naver.com/PostView.nhn?blogId=roboholic84&logNo=221187841348
